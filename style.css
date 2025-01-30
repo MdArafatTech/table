@@ -1,0 +1,87 @@
+body{
+    margin: 20px;
+    background: aqua;
+  
+}
+tr,th,td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse; 
+    background: white;
+    text-align: center;
+}
+.a{
+    background: red;
+    color: aqua;
+}
+.b{
+    background: black;
+    color: white;
+}
+.c{
+    background:#706fd3 ;
+    color:#f9f645 ;
+}
+.d{
+    background: #0be881;
+    color: #3c40c6;
+}
+.e{
+    background:#FC427B ;
+    color: azure;
+}
+.f{
+    background: #F8EFBA;
+    color: #e84118;
+}
+    
+.b:hover{
+    background: aqua;
+    color: black;
+}
+.a:hover{
+    background: aqua;
+    color: black;
+}
+.c:hover{
+    background: aqua;
+    color: black;
+}
+.d:hover{
+    background: aqua;
+    color: black;
+}
+.e:hover{
+    background: aqua;
+    color: black;
+}
+.f:hover{
+    background: aqua;
+    color: black;
+}
+.d{
+    border-collapse:separate;
+}
+.aa{
+    background: #62f827;
+
+}
+.dd{
+   background: #3c40c6;
+   color: white;
+}
+.tt{
+    background-color: red;
+    color: yellow;
+}
+.kk{
+    background: aqua;
+    color: red;
+}
+.uu{
+    background: rgb(255, 255, 255);
+    color: violet;
+}
+
+    
